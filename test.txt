@@ -1,0 +1,2 @@
+Hi, this is your secret text!
+Your email is: hli221@binghamton.eduI am appending this to your file
